@@ -30,13 +30,13 @@ AdGuardHome, but just this one.
 ## How Can I Use It?<a name="how-can-i-use-it"></a>
 
 Pretty simple, copy this link
-(https://github.com/ppfeufer/adguard-filter-list/blob/master/blocklist?raw=true) and
+(https://github.com/ratonjke/adguard-filter-list/blob/master/blocklist?raw=true) and
 add it to your AdGuardHome DNS blocklists.
 
 ## Which Lists Are Combined Here?<a name="which-lists-are-combined-here"></a>
 
 Which lists I'm using here, you can see in hostlist compiler configuration
-» [clickhere]([hostlist-compiler-config.json](https://github.com/ratonjke/adguard-filter-list/blob/master/hostlist-compiler-config.json)) « or have a look at the table below.
+» [clickhere](hostlist-compiler-config.json) « or have a look at the table below.
 
 | Name                                                                                                        | URL                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
